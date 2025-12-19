@@ -3,7 +3,7 @@ layout: post
 title: a post with advanced image components
 date: 2025-12-18 08:25:00
 description: this is what advanced image components could look like
-tags: 
+tags:
 categories:
 thumbnail: assets/img/prof_pic.jpg
 images:
